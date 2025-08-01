@@ -1,6 +1,7 @@
 # 🌼 Urooba here!  
 
-![Banner](/main/banner.png)
+![Banner](https://raw.githubusercontent.com/uroobagh123/uroobagh123/main/banner.jpg)
+
 
 ## About Me 🚀
 
