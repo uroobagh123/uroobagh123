@@ -1,6 +1,6 @@
 # 🌼 Urooba here!  
 
-![Banner](/assets/banner.png)
+![Banner](/main/banner.png)
 
 ## About Me 🚀
 
